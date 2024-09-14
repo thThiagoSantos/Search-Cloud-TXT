@@ -1,0 +1,16 @@
+Instalar o Python:
+
+https://www.python.org/downloads/
+
+na hora da instalação: Add to PATCH 
+
+--
+
+Inicie o extrator na pasta
+
+Instale o modulo:
+pip install colorama
+
+--
+
+Inicie o extrator
